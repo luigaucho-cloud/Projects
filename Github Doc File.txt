@@ -1,3 +1,16 @@
+
+Download GIT.
+
+Configure GIT.:
+	* git config --global user.name Ademba1
+	* git config --global user.email oscarademba@gmail.com
+	* git config --global core.editor "code --wait" // Defalt Editor for GIT ( code = VS Code)
+	* git config --global -e ( Use Editor)
+	* git config --global core.autocrlf true ( true for windows, input for Mac / Linux)
+	* git --config -- help ( full )
+	* git --config -h ( short )
+
+
 Connecting Local Folders to Github Repositories:
 
 Step 1: Create New repository on Github.
