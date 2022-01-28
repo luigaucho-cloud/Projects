@@ -2,8 +2,8 @@
 Download GIT.
 
 Configure GIT.:
-	* git config --global user.name Ademba1
-	* git config --global user.email oscarademba@gmail.com
+	* git config --global user.name USERNAME
+	* git config --global user.email EMAIL
 	* git config --global core.editor "code --wait" // Defalt Editor for GIT ( code = VS Code)
 	* git config --global -e ( Use Editor)
 	* git config --global core.autocrlf true ( true for windows, input for Mac / Linux)
